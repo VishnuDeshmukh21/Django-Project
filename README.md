@@ -8,10 +8,10 @@ Link: https://www.python.org/downloads/release/python-3913/
 5. Open commandline and go to the folder path and run:
 6. C:\Users\Your_Username\AppData\Local\Programs\Python\Python39\python -m venv env
 7. ./env/Scripts/activate
-8. This is activate a virtual envirenment where we install all the dependencies
+8. This will activate the virtual envirenment where we will install all the dependencies
 9. Type the command:
       pip install -r requirements.txt
-10. Go inside the project path in commandlibe and run the command:
+10. Go inside the project path in commandline and run the command:
       python manage.py runserver
 11. The developemnt server starts.
 
