@@ -15,4 +15,3 @@ Link: https://www.python.org/downloads/release/python-3913/
          python manage.py migrate
          python manage.py runserver
 11. The developemnt server starts.
-
