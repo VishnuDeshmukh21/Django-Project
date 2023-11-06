@@ -1,7 +1,7 @@
-Django==3.2
-firebase-admin
-pymongo
-django-crispy-forms
-crispy_bootstrap5
-djongo
-djangorestframework
+Django==3.2\n
+firebase-admin\n
+pymongo\n
+django-crispy-forms\n
+crispy_bootstrap5\n
+djongo\n
+djangorestframework\n
