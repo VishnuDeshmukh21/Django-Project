@@ -1,0 +1,1 @@
+Django==3.2 firebase-admin pymongo django-crispy-forms crispy_bootstrap5 djongo djangorestframework
