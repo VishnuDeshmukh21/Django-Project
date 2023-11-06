@@ -14,4 +14,4 @@ Link: https://www.python.org/downloads/release/python-3913/
 8. Go inside the project path in commandline and run the command:
          python manage.py migrate
          python manage.py runserver
-11. The developemnt server starts.
+9. The developemnt server starts.
