@@ -7,4 +7,4 @@
 5. This will activate the virtual envirenment where we will install all the dependencies.
 6. Type the command: pip install -r requirements.txt .
 7. Go inside the project path in commandline and run the commands-  python manage.py migrate , python manage.py runserver.
-8. The developemnt server starts.
+8. The developemnt server starts. localhost:8000
